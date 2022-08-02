@@ -11,7 +11,7 @@
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "truffle-contract": "^3.0.0",
-    "web3": "^1.0.0-beta.21"
+    "web3": "^1.7.5"
   },
   "devDependencies": {
     "ethereumjs-testrpc": "^4.1.3"
